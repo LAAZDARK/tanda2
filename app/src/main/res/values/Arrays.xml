@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>1 Dia</item>
+        <item>2 Dia</item>
+        <item>3 Dia</item>
+        <item>4 Dia</item>
+        <item>5 Dia</item>
+        <item>6 Dia</item>
+        <item>Semanal</item>
+        <item>Quincenal</item>
+    </string-array>
+</resources>
